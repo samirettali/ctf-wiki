@@ -4,3 +4,8 @@
 ```
 paste -d: usernames.txt passwords.txt
 ```
+
+## Generate list of numbers
+```
+seq <start> <end> > numbers.txt
+```

@@ -2,7 +2,7 @@
 
 ## Preferred scan
 ```
-nmap -sC -sV -oA <ip>
+nmap -p 1-65535 -sV -sS -T4 <ip>
 ```
 
 ## Quick scan

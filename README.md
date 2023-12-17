@@ -1,3 +1,4 @@
 # Introduction
 
-This is my wiki
+Welcome to my Wiki
+(Work in progress)
